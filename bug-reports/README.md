@@ -117,8 +117,8 @@ Each bug report follows this standard structure:
 
 Junior QA Engineer with a focus on manual testing, API testing, and building a professional testing portfolio.
 
-📧 your.email@example.com
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)
+📧 muhit7nisanov@gmail.com
+🔗 [LinkedIn Profile](www.linkedin.com/in/mukhit-nishanov-ba9846386)
 
 ---
 
