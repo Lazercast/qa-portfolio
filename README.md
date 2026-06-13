@@ -80,9 +80,6 @@ A hosted REST API with support for authentication simulation and user management
 ```
 qa-api-portfolio/
 │
-├── 📂 collections/
-│   ├── JSONPlaceholder_Collection.json     ← Postman collection (JSONPlaceholder)
-│   └── ReqRes_Collection.json              ← Postman collection (ReqRes)
 │
 ├── 📂 test-cases/
 │   ├── TC_GET_Users.md                     ← Test cases for GET /users
